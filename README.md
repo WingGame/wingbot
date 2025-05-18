@@ -1,18 +1,50 @@
-# WingGame Bot
+<p align="center">
+  <img src="images/image.svg" alt="WingGame Logo" width="200"/>
+</p>
 
-یک ربات تلگرامی بازی محور با سیستم کارت و مینی‌اپ برای ثبت‌نام اولیه.
+<h1 align="center">WingGame</h1>
 
-[مینی‌اپ ثبت‌نام](https://winggame.github.io/wingbot/)
+<p align="center">
+  <b>A strategic card-based Telegram game!</b><br>
+  Choose your king, build your army, conquer the leaderboard.
+</p>
 
-## ویژگی‌ها
-- ثبت‌نام از طریق Web App تلگرام
-- استفاده از GitHub Pages برای فایل‌های استاتیک HTML
-- ساختار ساده و قابل گسترش با Python و Telebot
+---
 
-## شروع سریع
+## Features
 
-`bash
-git clone https://github.com/WingGame/wingbot.git
-cd wingbot
-pip install -r requirements.txt
-python main.py
+- Season-based gameplay
+- Unique collectible cards
+- Mini-app registration via HTML
+- Realtime updates and rankings
+- Telegram-integrated experience
+
+---
+
+## How to Play
+
+1. Start the game via Telegram.
+2. Choose your king and enter your name.
+3. Collect cards, battle others, and climb the ranks.
+4. Win rewards at the end of every season!
+
+---
+
+## Get Started
+
+[![Telegram](https://img.shields.io/badge/Play%20Now-WingGameBot-2CA5E0?logo=telegram&style=for-the-badge)](https://t.me/WingGameBot)
+
+---
+
+## Screenshots
+
+<p align="center">
+  <img src="images/screen1.png" alt="Gameplay" width="300"/>
+  <img src="images/screen2.png" alt="Battle Mode" width="300"/>
+</p>
+
+---
+
+## License
+
+This project is under active development. All rights reserved by [WingGame Team](https://github.com/WingGame).
